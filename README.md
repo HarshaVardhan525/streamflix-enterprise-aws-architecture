@@ -59,6 +59,10 @@ The infrastructure follows cloud architecture best practices by leveraging Multi
 | Scaling Metric   | Average CPU Utilization |
 | Target Value     | 50%                     |
 
+## Documentation
+
+- [Deployment Guide](docs/deployment-guide.md)
+
 ## AWS Services Used
 
 * Amazon VPC
