@@ -1,3 +1,32 @@
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![EC2](https://img.shields.io/badge/EC2-Compute-orange)
+![ALB](https://img.shields.io/badge/ALB-Load_Balancing-blue)
+![AutoScaling](https://img.shields.io/badge/AutoScaling-Enabled-green)
+
+## Architecture Highlights
+
+- Multi-AZ Deployment across 3 Availability Zones
+- High Availability using Application Load Balancer
+- Automatic Scaling using Auto Scaling Group
+- Secure Networking with Public and Private Subnets
+- Internet Access through Internet Gateway and NAT Gateway
+- Immutable Infrastructure using AMI and Launch Templates
+
+## Skills Demonstrated
+
+- AWS Networking
+- VPC Design
+- Route Tables
+- Internet Gateway
+- NAT Gateway
+- EC2 Administration
+- Apache Web Server
+- AMI Creation
+- Launch Templates
+- Load Balancing
+- Auto Scaling
+- Cloud Architecture Design
+
 # StreamFlix Enterprise AWS Architecture
 
 ## Project Overview
